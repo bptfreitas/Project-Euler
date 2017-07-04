@@ -1,0 +1,161 @@
+0
+	 middle():00
+	0
+	True
+	 middle(0):000
+	0
+	True
+	 middle(1):010
+	2
+	True
+1
+	 middle():11
+	3
+	True
+	 middle(0):101
+	5
+	True
+	 middle(1):111
+	7
+	True
+10
+	 middle():1001
+	9
+	True
+	 middle(0):10001
+	17
+	False
+	 middle(1):10101
+	21
+	False
+11
+	 middle():1111
+	15
+	False
+	 middle(0):11011
+	27
+	False
+	 middle(1):11111
+	31
+	False
+100
+	 middle():100001
+	33
+	True
+	 middle(0):1000001
+	65
+	False
+	 middle(1):1001001
+	73
+	False
+101
+	 middle():101101
+	45
+	False
+	 middle(0):1010101
+	85
+	False
+	 middle(1):1011101
+	93
+	False
+110
+	 middle():110011
+	51
+	False
+	 middle(0):1100011
+	99
+	True
+	 middle(1):1101011
+	107
+	False
+111
+	 middle():111111
+	63
+	False
+	 middle(0):1110111
+	119
+	False
+	 middle(1):1111111
+	127
+	False
+1000
+	 middle():10000001
+	129
+	False
+	 middle(0):100000001
+	257
+	False
+	 middle(1):100010001
+	273
+	False
+1001
+	 middle():10011001
+	153
+	False
+	 middle(0):100101001
+	297
+	False
+	 middle(1):100111001
+	313
+	True
+1010
+	 middle():10100101
+	165
+	False
+	 middle(0):101000101
+	325
+	False
+	 middle(1):101010101
+	341
+	False
+1011
+	 middle():10111101
+	189
+	False
+	 middle(0):101101101
+	365
+	False
+	 middle(1):101111101
+	381
+	False
+1100
+	 middle():11000011
+	195
+	False
+	 middle(0):110000011
+	387
+	False
+	 middle(1):110010011
+	403
+	False
+1101
+	 middle():11011011
+	219
+	False
+	 middle(0):110101011
+	427
+	False
+	 middle(1):110111011
+	443
+	False
+1110
+	 middle():11100111
+	231
+	False
+	 middle(0):111000111
+	455
+	False
+	 middle(1):111010111
+	471
+	False
+1111
+	 middle():11111111
+	255
+	False
+	 middle(0):111101111
+	495
+	False
+	 middle(1):111111111
+	511
+	False
+471
